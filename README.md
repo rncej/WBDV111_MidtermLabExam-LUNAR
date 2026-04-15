@@ -1,8 +1,8 @@
 # WBDV111_MidtermLabExam-LUNAR
 A group of students making a project via making a website.
   GROM A MERSITE!
-Group:
 #
+Group:
 Almiñe, Jeff Amiel I.
 Samson, Jorence P.
 Ellis, Denver S.
