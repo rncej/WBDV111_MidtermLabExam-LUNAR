@@ -253,9 +253,10 @@ img:hover{
         margin: 1;
     }
 }
-@media (min-width: 1024px) {
-.box {
-    width: 23%;
+
+@media and screen (max-width: 553px) {
+    html {
+        font-size: 40.25%;
     }
 }
 .footer-links a {
