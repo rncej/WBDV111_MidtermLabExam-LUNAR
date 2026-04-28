@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
     const toggleBtn = document.querySelector(".theme-btn");
 
@@ -19,4 +20,11 @@ document.addEventListener("DOMContentLoaded", () => {
             localStorage.setItem("theme", "light");
         }
     });
+});
+// Menu button
+const menuToggle = document.querySelector(".menu-toggle");
+const navLinks = document.querySelector(".nav-links");
+
+menuToggle.addEventListener("click", () => {
+    navLinks.classList.toggle("active");
 });
